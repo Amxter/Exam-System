@@ -3,17 +3,17 @@
   "WorkspaceRootPath": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03780C44-392A-445E-9FD0-201E069A3637}|..\\BusinessEM\\BusinessEM.csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\businessem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03780C44-392A-445E-9FD0-201E069A3637}|..\\BusinessEM\\BusinessES.csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\businessem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E818B07-63F1-4195-9AC9-83ED4514EF0B}|..\\DataES\\DataES.csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\dataes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\project database (exam system)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\project database (exam system)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -44,8 +44,7 @@
               "RelativeToolTip": "..\\DataES\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T08:47:22.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T08:47:22.544Z"
             },
             {
               "$type": "Document",
@@ -55,7 +54,7 @@
               "RelativeDocumentMoniker": "..\\BusinessEM\\Class1.cs",
               "ToolTip": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\BusinessEM\\Class1.cs",
               "RelativeToolTip": "..\\BusinessEM\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-19T08:46:16.613Z",
               "EditorCaption": ""
@@ -70,8 +69,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T08:43:17.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T08:43:17.93Z"
             },
             {
               "$type": "Document",
@@ -82,8 +80,7 @@
               "ToolTip": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T08:43:06.025Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-19T08:43:06.025Z"
             }
           ]
         }
