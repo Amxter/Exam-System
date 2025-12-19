@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03780C44-392A-445E-9FD0-201E069A3637}|..\\BusinessEM\\BusinessEM.csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\businessem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E818B07-63F1-4195-9AC9-83ED4514EF0B}|..\\DataES\\DataES.csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\dataes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\project database (exam system)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\project database (exam system)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\DataES\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DataES\\Class1.cs",
+              "ToolTip": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\DataES\\Class1.cs",
+              "RelativeToolTip": "..\\DataES\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:47:22.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\BusinessEM\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BusinessEM\\Class1.cs",
+              "ToolTip": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\BusinessEM\\Class1.cs",
+              "RelativeToolTip": "..\\BusinessEM\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:46:16.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:43:17.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:43:06.025Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
