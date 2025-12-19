@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DataES
 {
-    public class Class1
+    public static class clsDataSettings
     {
+
+        // write the connection string 
+        public static string ConnectionString = "";
+
     }
 }

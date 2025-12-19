@@ -1,19 +1,31 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\",
+  "WorkspaceRootPath": "C:\\Users\\tareq\\source\\repos\\Exam-System\\Project Database (Exam System)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03780C44-392A-445E-9FD0-201E069A3637}|..\\BusinessEM\\BusinessES.csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\businessem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03780C44-392A-445E-9FD0-201E069A3637}|..\\BusinessEM\\BusinessES.csproj|c:\\users\\tareq\\source\\repos\\exam-system\\businessem\\entities\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E818B07-63F1-4195-9AC9-83ED4514EF0B}|..\\DataES\\DataES.csproj|c:\\programing with mohamed abu hadhod\\project database exam system\\exam-system\\dataes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03780C44-392A-445E-9FD0-201E069A3637}|..\\BusinessEM\\BusinessES.csproj|c:\\users\\tareq\\source\\repos\\exam-system\\businessem\\entities\\clsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E818B07-63F1-4195-9AC9-83ED4514EF0B}|..\\DataES\\DataES.csproj|c:\\users\\tareq\\source\\repos\\exam-system\\dataes\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E818B07-63F1-4195-9AC9-83ED4514EF0B}|..\\DataES\\DataES.csproj|c:\\users\\tareq\\source\\repos\\exam-system\\dataes\\repositries\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E818B07-63F1-4195-9AC9-83ED4514EF0B}|..\\DataES\\DataES.csproj|c:\\users\\tareq\\source\\repos\\exam-system\\dataes\\interfaces\\igenericrepositroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E818B07-63F1-4195-9AC9-83ED4514EF0B}|..\\DataES\\DataES.csproj|c:\\users\\tareq\\source\\repos\\exam-system\\dataes\\clsdatasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|C:\\Users\\tareq\\source\\repos\\Exam-System\\Project Database (Exam System)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|C:\\Users\\tareq\\source\\repos\\Exam-System\\Project Database (Exam System)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{95E90EFD-E24B-41CB-88E2-14E6F1C8EB49}|Project Database (Exam System).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,48 +36,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tareq\\Source\\Repos\\Exam-System\\DataES\\Repositries\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataES\\Repositries\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\tareq\\Source\\Repos\\Exam-System\\DataES\\Repositries\\PersonRepository.cs",
+              "RelativeToolTip": "..\\DataES\\Repositries\\PersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:20:21.268Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\DataES\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\DataES\\Class1.cs",
-              "ToolTip": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\DataES\\Class1.cs",
-              "RelativeToolTip": "..\\DataES\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T08:47:22.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\BusinessEM\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\BusinessEM\\Class1.cs",
-              "ToolTip": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\BusinessEM\\Class1.cs",
-              "RelativeToolTip": "..\\BusinessEM\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T08:46:16.613Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tareq\\source\\repos\\Exam-System\\DataES\\Interfaces\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataES\\Interfaces\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\tareq\\source\\repos\\Exam-System\\DataES\\Interfaces\\IPersonRepository.cs",
+              "RelativeToolTip": "..\\DataES\\Interfaces\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T20:20:05.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\tareq\\source\\repos\\Exam-System\\BusinessEM\\Entities\\clsEntity.cs",
+              "RelativeDocumentMoniker": "..\\BusinessEM\\Entities\\clsEntity.cs",
+              "ToolTip": "C:\\Users\\tareq\\source\\repos\\Exam-System\\BusinessEM\\Entities\\clsEntity.cs",
+              "RelativeToolTip": "..\\BusinessEM\\Entities\\clsEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T19:39:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\tareq\\source\\repos\\Exam-System\\BusinessEM\\Entities\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\BusinessEM\\Entities\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\tareq\\source\\repos\\Exam-System\\BusinessEM\\Entities\\clsPerson.cs",
+              "RelativeToolTip": "..\\BusinessEM\\Entities\\clsPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T19:38:58.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepositroy.cs",
+              "DocumentMoniker": "C:\\Users\\tareq\\Source\\Repos\\Exam-System\\DataES\\Interfaces\\IGenericRepositroy.cs",
+              "RelativeDocumentMoniker": "..\\DataES\\Interfaces\\IGenericRepositroy.cs",
+              "ToolTip": "C:\\Users\\tareq\\Source\\Repos\\Exam-System\\DataES\\Interfaces\\IGenericRepositroy.cs",
+              "RelativeToolTip": "..\\DataES\\Interfaces\\IGenericRepositroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:46:27.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsDataSettings.cs",
+              "DocumentMoniker": "C:\\Users\\tareq\\source\\repos\\Exam-System\\DataES\\clsDataSettings.cs",
+              "RelativeDocumentMoniker": "..\\DataES\\clsDataSettings.cs",
+              "ToolTip": "C:\\Users\\tareq\\source\\repos\\Exam-System\\DataES\\clsDataSettings.cs",
+              "RelativeToolTip": "..\\DataES\\clsDataSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:37:50.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tareq\\source\\repos\\Exam-System\\Project Database (Exam System)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\Program.cs",
+              "ToolTip": "C:\\Users\\tareq\\source\\repos\\Exam-System\\Project Database (Exam System)\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,12 +142,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tareq\\source\\repos\\Exam-System\\Project Database (Exam System)\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Programing with Mohamed abu Hadhod\\Project Database Exam System\\Exam-System\\Project Database (Exam System)\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-19T08:43:06.025Z"
             }
